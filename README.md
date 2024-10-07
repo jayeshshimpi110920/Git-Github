@@ -42,8 +42,19 @@ Ex : Cart to purchase product ..compare purpose
 This difference of Git that sets it apart from other VCS, this Staging tree (usually termed as Staging area) is a place where you prepare all the things that you are going to commit. In Git, you don't move things directly from
 your working copy to the repository, you have to stage them first, then commit the changes. 
 Staging is a cache of files that you want to commit.
+advantage
+1) Team Collaboration
+2) Defect Tracking
+3) Fast compared to other VCS - it pushing only difference edit one not whole.
+4) No single point of failure
+5) Sleek, Reliable and Open Source
+6) Secure Cross-platform
 
 ![maxresdefault](https://github.com/user-attachments/assets/ffd1c15b-0c87-484d-8299-92a9fcdab259)
+
+---
+
+
 
 
 
